@@ -1,0 +1,11 @@
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/AuthServiceApplication.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/config/SecurityBeanConfig.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/config/SecurityConfig.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/controller/AuthController.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/dto/UserDto.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/enums/UserRole.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/model/User.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/repository/UserRepository.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/service/AuthenticationService.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/service/JwtAuthenticationFilter.java
+/home/whiteflags26/Desktop/micro/upskillenglish-microservices/AuthService/src/main/java/com/whiteflags26/smartquizzer/authservice/service/JwtService.java

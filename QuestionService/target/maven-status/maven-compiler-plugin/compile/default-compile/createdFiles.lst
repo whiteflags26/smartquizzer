@@ -1,0 +1,11 @@
+com/whiteflags26/smartquizzer/client/UserServiceClient.class
+com/whiteflags26/smartquizzer/QuestionServiceApplication.class
+com/whiteflags26/smartquizzer/generate_questions/model/TrueFalseForm.class
+com/whiteflags26/smartquizzer/generate_questions/service/OpinionativeService.class
+com/whiteflags26/smartquizzer/auth/model/User.class
+com/whiteflags26/smartquizzer/generate_questions/model/OpinionativeForm.class
+com/whiteflags26/smartquizzer/generate_questions/service/GenerateTrueFalseService.class
+com/whiteflags26/smartquizzer/client/dto/GeminiRequest.class
+com/whiteflags26/smartquizzer/generate_questions/model/MCQForm.class
+com/whiteflags26/smartquizzer/generate_questions/service/GenerateMCQService.class
+com/whiteflags26/smartquizzer/client/GeminiServiceClient.class
